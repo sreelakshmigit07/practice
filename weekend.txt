@@ -1,3 +1,4 @@
 monday -master
 Tuesday -master
 holiday1
+holiday2
