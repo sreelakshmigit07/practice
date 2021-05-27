@@ -1,1 +1,2 @@
-monday
+monday -master
+Tuesday -master
